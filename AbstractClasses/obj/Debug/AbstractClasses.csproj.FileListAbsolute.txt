@@ -1,0 +1,6 @@
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Interfaces\Interfaces\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Interfaces\Interfaces\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Interfaces\Interfaces\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Interfaces\Interfaces\AbstractClasses\obj\Debug\AbstractClasses.csprojResolveAssemblyReference.cache
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Interfaces\Interfaces\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Interfaces\Interfaces\AbstractClasses\obj\Debug\AbstractClasses.pdb

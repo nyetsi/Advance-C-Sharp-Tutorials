@@ -1,0 +1,6 @@
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Interfaces\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Interfaces\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Interfaces\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Interfaces\Interfaces\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Interfaces\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Interfaces\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
