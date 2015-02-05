@@ -1,0 +1,6 @@
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Advance C#\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Advance C#\Collections\bin\Debug\Collections.exe.config
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Advance C#\Collections\bin\Debug\Collections.exe
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Advance C#\Collections\bin\Debug\Collections.pdb
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Advance C#\Collections\obj\Debug\Collections.exe
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Advance C#\Collections\obj\Debug\Collections.pdb

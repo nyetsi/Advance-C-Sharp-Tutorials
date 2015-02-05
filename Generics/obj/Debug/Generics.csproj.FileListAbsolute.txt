@@ -4,3 +4,9 @@ C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Interfaces\
 C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Interfaces\Interfaces\Generics\obj\Debug\Generics.exe
 C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Interfaces\Interfaces\Generics\obj\Debug\Generics.pdb
 C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Interfaces\Interfaces\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Advance C#\Generics\bin\Debug\Generics.exe.config
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Advance C#\Generics\bin\Debug\Generics.exe
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Advance C#\Generics\bin\Debug\Generics.pdb
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Advance C#\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Advance C#\Generics\obj\Debug\Generics.exe
+C:\Users\Vusi.AGRISTA\Documents\Visual Studio 2013\Projects\Learning\Advance C#\Generics\obj\Debug\Generics.pdb
