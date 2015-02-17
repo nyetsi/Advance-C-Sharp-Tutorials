@@ -23,6 +23,14 @@ namespace Generics
         {
             array[index] = value;
         }
+
+
+        void Breakfast()
+        {
+            var bird = new Animal<Egg>();
+            var pig = new Animal<Piglet>();
+        }
+        
     }
 
 
@@ -65,4 +73,13 @@ namespace Generics
             Console.ReadKey();
         }
     }
+
+    public class Animal<T> where T : Offspring
+    {
+        public T Offspring { get; set; }
+    }
+
+    public abstract class Offspring { }
+    public class Piglet : Offspring { }
+    public class Egg : Offspring { }
 }

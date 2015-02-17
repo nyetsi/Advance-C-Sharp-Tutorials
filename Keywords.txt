@@ -1,0 +1,46 @@
+﻿Class an Struct
+
+•	A class or struct defines the template for an object
+•	A class represent a reference type
+•	A struct represent a value type
+
+Struct
+•	Struct  with the same name are not related in memory, 
+•	Structs cannot be inherited. 
+•	Structs are passed by value and not by reference.
+•	Structs are stored on the stack not the heap. 
+•	The result is better performance with Structs.
+
+Class
+•	Two things a class can do, which is hold data in a property, do something and raise an event.
+•	Static – cannot instantiated 
+•	Abstract – incomplete, must be completed by a class that inherit it
+o	Two files that implement the same class, with different logic
+o	
+•	Sealed – cannot be inherited
+
+
+
+	Method has a parameter
+	Parameter has an argument
+
+
+Methods and Events
+
+Event
+•	Needs a handler
+•	Event is a way for a class or an object to talk back to me
+•	Happens after something has happened
+•	Event name is called like you would call a method
+•	To listen to that event, you need to subscribe to that event
+Boxing/ Unboxing
+
+Boxing 
+•	Act of converting a value type into a reference type
+•	Computationally expensive – avoid repetition
+
+Unboxing
+•	Act of converting a reference type into a value type
+•	Requires a CAST
+
+
